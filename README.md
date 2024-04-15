@@ -32,12 +32,16 @@ A to do list app that asks users to upload proof of having completed their to do
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
+* User must be able to add to dos
+* User must be able to see other users to dos
+* User must be able to ping others to complete their to dos
 * ...
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
+* User must be able to upload an image of their completed to do to the app for others to see
+* User must be able to delete to dos
+* User must be able to edit to dos
 * ...
 
 ### 2. Screen Archetypes
