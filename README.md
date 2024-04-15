@@ -44,6 +44,10 @@ A to do list app that asks users to upload proof of having completed their to do
 * User must be able to edit to dos
 * ...
 
+Week 8 Update: 
+
+https://www.loom.com/share/cc7c2aedf3534d3d9afa39a386f8778d?sid=411bedc2-fee0-4379-9412-1efe23c5e12d
+
 ### 2. Screen Archetypes
 
 - [ ] [list first screen here]
